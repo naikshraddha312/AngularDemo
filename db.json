@@ -1,0 +1,72 @@
+{
+  "POSTS": [
+    {
+      "id": 1,
+      "name": "Shraddha Naik",
+      "lastSeen": "Active",
+      "address": {
+        "city": "pune",
+        "country": "India"
+      },
+      "address1": {
+        "city": "pune",
+        "country": "India"
+      },
+      "details": "Mitali is world famous professional photographer.  with forward thinking clients to create beautiful, honest and amazing things that bring positive results. John is world famous professional photographer.  with forward thinking clients to create beautiful, honest and amazing things that bring positive results.",
+      "remark": "",
+      "department": "CIO_CIO",
+      "designation": "Jr. Software Engineer",
+      "manager": "xyz"
+    },
+    {
+      "id": 2,
+      "name": "Mitali Nagarse",
+      "lastSeen": "Active",
+      "address": {
+        "city": "pune",
+        "country": "India"
+      },
+      "address1": {
+        "city": "Beed",
+        "country": "India"
+      },
+      "details": "Mitali is world famous professional photographer.  with forward thinking clients to create beautiful, honest and amazing things that bring positive results. John is world famous professional photographer.  with forward thinking clients to create beautiful, honest and amazing things that bring positive results.",
+      "remark": "Updated",
+      "department": "CIO_CIO",
+      "designation": "Jr. Software Engineer",
+      "manager": "xyz"
+    },
+    {
+      "id": 3,
+      "name": "Prashant Kulkarni",
+      "lastSeen": "Active",
+      "address": {
+        "city": "Nagar",
+        "country": "India"
+      },
+      "address1": {
+        "city": "pune",
+        "country": "India"
+      },
+      "details": "Prashant is world famous professional photographer.  with forward thinking clients to create beautiful, honest and amazing things that bring positive results. John is world famous professional photographer.  with forward thinking clients to create beautiful, honest and amazing things that bring positive results.",
+      "remark": "hewww",
+      "department": "CIO_CIO",
+      "designation": "Jr. Software Engineer",
+      "manager": "xyz"
+    },
+    {
+      "id": 4,
+      "name": "abc xyz",
+      "lastSeen": "active",
+      "details": " ",
+      "remark": "ha",
+      "department": "hmm",
+      "designation": "ha",
+      "manager": "a",
+      "address1": {
+        "city": "beed",
+        "country": "India"
+      }
+    }
+  ]
+}
