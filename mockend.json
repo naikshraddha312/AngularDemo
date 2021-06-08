@@ -1,5 +1,5 @@
 {
-  "POSTS": [
+ 
     {
       "id": 1,
       "name": "Shraddha Naik",
@@ -68,5 +68,5 @@
         "country": "India"
       }
     }
-  ]
+  
 }
